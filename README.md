@@ -72,4 +72,4 @@ The day began with a lecture from Mr. Gautam Murria on "Motor Sports." He taught
 
 We all gathered in the auditorium where Mrs. Shaffy Makkar delivered a lecture on "Millets: The Superfood." She educated us about the importance of millets in our lives and how they can help prevent various health issues. Additionally, she shared several recipes that allow us to maximise the benefits of millets.
 
-<img src=“IMG-20250805-WA0008.jpg” alt=Failed to load width=“300” height=“300”>
+<img src=“IMG-20250805-WA0008.jpg” width=“300” height=“300”>
