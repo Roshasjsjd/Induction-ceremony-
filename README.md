@@ -28,3 +28,18 @@ Then our seniors and professors gave us an engaging tour of the college, showcas
 
 # Day-2
 
+# Time: 9:00 am
+
+We all gathered in the auditorium that day and started the day with a prayer. Then Dr. Priya Darshani delivered an inspiring two-hour lecture on "Universal Human Values." This session deepened my understanding of inner peace, happiness, relationships, and other essential topics.
+
+# Time: 11:00 am
+
+Then Dr. Arvind Dhingra came and told us about various clubs and organised fun activities with us. Some students then came forward to showcase their talents. Overall, it was quite a fun session. 
+
+# Time: 12:30 pm
+
+Break 
+
+# Time: 1:30 pm
+
+Following that, our proficiency test was conducted, which included two subjects: Maths and English.
