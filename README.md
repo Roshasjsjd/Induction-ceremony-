@@ -73,3 +73,31 @@ The day began with a lecture from Mr. Gautam Murria on "Motor Sports." He taught
 We all gathered in the auditorium where Mrs. Shaffy Makkar delivered a lecture on "Millets: The Superfood." She educated us about the importance of millets in our lives and how they can help prevent various health issues. Additionally, she shared several recipes that allow us to maximise the benefits of millets.
 
 ![image alt](https://github.com/Roshasjsjd/Induction-ceremony-/blob/ddae0a3548e046244d21866339e0c26e0d4b5fb4/IMG-20250805-WA0008.jpg)
+
+# Day-5
+
+## Time: 9:30 am
+
+The day began with everyone gathering in the auditorium. As always, we started with prayers. After that, Dr. Parminder Singh, the Dean of Student Welfare, spoke to us about the various facilities available at the college. He shared many important insights about our college.
+
+## Time: 10:00 am
+
+Mr. Manpreet Singh delivered an engaging lecture on "Fitness for Engineers," which included sharing his knowledge about fitness and conducting activities on stage.
+
+![image alt](https://github.com/Roshasjsjd/Induction-ceremony-/blob/34af13d94ec3a7b352782b8d28a414f755ea7642/VideoCapture_20250806-221511.jpg)
+
+## Time: 11:00 am
+
+Then Brigadier P.S. Cheema attended the lecture, and it was an invaluable opportunity to have him present. His insights were truly inspiring and motivated us to pursue careers in the armed forces.
+
+## Time: 12:30 pm
+
+Break
+
+## Time: 1:30 pm 
+
+Our seniors conducted an impactful peer-to-peer lecture that effectively introduced us to coding. It was an invaluable session that significantly enhanced our understanding.
+
+## Time: 2:30 pm
+
+Prof. Nisha led an engaging introductory English lecture, encouraging us to introduce ourselves to our fellow students. 
