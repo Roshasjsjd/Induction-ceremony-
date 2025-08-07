@@ -1,4 +1,4 @@
-# Induction-ceremony-
+# Induction-ceremony
 
 # Day-1
 
