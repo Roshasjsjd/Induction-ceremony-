@@ -119,3 +119,5 @@ Dr. Lakhvir Singh Khana, our CML In-Charge, gave a great lecture in the auditori
 ## Time: 1:30 pm
 
 Dr. Jasvir Singh Grewal, our NSS In-Charge, held an interactive session to introduce us to the National Service Scheme (NSS). He began the session with a recitation of a Shabad. Following that, he organised a few fun activities. Our seniors also presented a comedy play, which was very entertaining. Overall, it was the best session we have had so far.
+
+![image alt](https://github.com/Roshasjsjd/Induction-ceremony-/blob/b7a96f4a57ea42d3afb14562330addfb14cddff5/VideoCapture_20250807-193308.jpg)
