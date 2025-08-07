@@ -101,3 +101,21 @@ Our seniors conducted an impactful peer-to-peer lecture that effectively introdu
 ## Time: 2:30 pm
 
 Prof. Nisha led an engaging introductory English lecture, encouraging us to introduce ourselves to our fellow students. 
+
+# Day-6
+
+## Time: 9:30 am
+
+Today, we assembled in the sem hall to create our college ID cards.
+
+## Time: 11:30 am
+
+Break
+
+## Time: 12:30 pm
+
+Dr. Lakhvir Singh Khana, our CML In-Charge, gave a great lecture in the auditorium. He was excited to introduce us to the CML Club and shared a bit about what it's all about. Plus, he offered some awesome tips that will definitely help us in the future. It was a really informative and enjoyable session!
+
+## Time: 1:30 pm
+
+Dr. Jasvir Singh Grewal, our NSS In-Charge, held an interactive session to introduce us to the National Service Scheme (NSS). He began the session with a recitation of a Shabad. Following that, he organised a few fun activities. Our seniors also presented a comedy play, which was very entertaining. Overall, it was the best session we have had so far.
