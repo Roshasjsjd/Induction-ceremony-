@@ -1,6 +1,6 @@
 # Induction-ceremony
 
-# Day-1
+# Day-1 (30-07-25)
 
 ## Time: 8:30 am
 
@@ -26,7 +26,7 @@ At this, we all went for Guru ka Langar.
 
 Then our seniors and professors gave us an engaging tour of the college, showcasing the various labs, classrooms, and workshops.
 
-# Day-2
+# Day-2 (01-08-25)
 
 ## Time: 9:00 am
 
@@ -44,7 +44,7 @@ Break
 
 Following that, our proficiency test was conducted, which included two subjects: Maths and English.
 
-# Day-3
+# Day-3 (04-08-25)
 
 ## Time: 8:30 am 
 
@@ -62,7 +62,7 @@ Break
 
 During this time, Prof. Jaswant Singh gave us a lecture on coding. He was very passionate about his subject and his teaching definitely reflected that. That session introduced me to various new terms related to coding.
 
-# Day-4
+# Day-4 (05-08-25)
 
 ## Time: 1:30 pm
 
@@ -74,7 +74,7 @@ We all gathered in the auditorium where Mrs. Shaffy Makkar delivered a lecture o
 
 ![image alt](https://github.com/Roshasjsjd/Induction-ceremony-/blob/ddae0a3548e046244d21866339e0c26e0d4b5fb4/IMG-20250805-WA0008.jpg)
 
-# Day-5
+# Day-5 (06-08-25)
 
 ## Time: 9:30 am
 
@@ -102,7 +102,7 @@ Our seniors conducted an impactful peer-to-peer lecture that effectively introdu
 
 Prof. Nisha led an engaging introductory English lecture, encouraging us to introduce ourselves to our fellow students. 
 
-# Day-6
+# Day-6 (07-08-25)
 
 ## Time: 9:30 am
 
@@ -121,3 +121,17 @@ Dr. Lakhvir Singh Khana, our CML In-Charge, gave a great lecture in the auditori
 Dr. Jasvir Singh Grewal, our NSS In-Charge, held an interactive session to introduce us to the National Service Scheme (NSS). He began the session with a recitation of a Shabad. Following that, he organised a few fun activities. Our seniors also presented a comedy play, which was very entertaining. Overall, it was the best session we have had so far.
 
 ![image alt](https://github.com/Roshasjsjd/Induction-ceremony-/blob/b7a96f4a57ea42d3afb14562330addfb14cddff5/VideoCapture_20250807-193308.jpg)
+
+# Day-7 (08-08-25)
+
+## Time: 11:00 am 
+
+Today, I attended my first lecture on engineering drawing. It was an interesting experience. The lecture taught us the difference between artistic drawing and engineering drawing, which was something new I learned today.
+
+## Time: 12:00 pm 
+
+Break
+
+## Time: 1:00 pm
+
+I attended a workshop lecture in the machine block that introduced us to several new machines. It was informative and beneficial for our understanding of current machinery.
