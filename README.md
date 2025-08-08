@@ -135,3 +135,5 @@ Break
 ## Time: 1:00 pm
 
 I attended a workshop lecture in the machine block that introduced us to several new machines. It was informative and beneficial for our understanding of current machinery.
+
+![image alt](https://github.com/Roshasjsjd/Induction-ceremony-/blob/4903d9f493dedd73906d8a4909a7029d93bef4af/Snapchat-142627968.jpg)
